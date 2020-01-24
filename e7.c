@@ -4,6 +4,7 @@ void main()
 {
 int a;
 int d;
+scanf();
 printf("Size of character type is %ld\n",sizeof(char));
 printf("Size of integer type is %ld\n",sizeof(int));
 printf("Size of float is %ld\n",sizeof(float));
