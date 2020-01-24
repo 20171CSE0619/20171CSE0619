@@ -2,6 +2,7 @@
 #include<stdio.h>
 void main()
 {
+int a;
 printf("Size of character type is %ld\n",sizeof(char));
 printf("Size of integer type is %ld\n",sizeof(int));
 printf("Size of float is %ld\n",sizeof(float));
